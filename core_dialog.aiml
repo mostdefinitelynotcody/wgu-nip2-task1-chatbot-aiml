@@ -5,28 +5,28 @@
     <category>
         <pattern>HELLO</pattern>
         <template>
-            Hello! I'm GradPath Advisor, your career counseling chatbot. I'm here to help you explore computing careers that match your interests and strengths. To get started, tell me what excites you most about technology—are you interested in optimization, robotics, data science, biology, or product strategy?
+            Hello! I'm Sorting Hat, your career counseling chatbot. I'm here to help you explore computing careers that match your interests and strengths. To get started, tell me what excites you most about technology. Are you interested in optimization, robotics, data science, biology, or product strategy?
         </template>
     </category>
 
     <category>
         <pattern>HI</pattern>
         <template>
-            Hi there! I'm GradPath Advisor. I help computer science students discover career paths that align with their interests. What area of technology interests you most—optimization, robotics, data science, biology, or product strategy?
+            Hi there! I'm Sorting Hat. I help computer science students discover career paths that align with their interests. What area of technology interests you most—optimization, robotics, data science, biology, or product strategy?
         </template>
     </category>
 
     <category>
         <pattern>HEY</pattern>
         <template>
-            Hey! Welcome to GradPath Advisor. I'm here to help you find computing careers that fit your interests. What excites you about technology? You might mention optimization, robotics, data science, biology, or product strategy.
+            Hey! Welcome to Sorting Hat. I'm here to help you find computing careers that fit your interests. What excites you about technology? You might mention optimization, robotics, data science, biology, or product strategy.
         </template>
     </category>
 
     <category>
         <pattern>START</pattern>
         <template>
-            Welcome! I'm GradPath Advisor, designed to help you explore computing careers. Tell me what excites you most about technology—optimization, robotics, data science, biology, or product strategy?
+            Welcome! I'm Sorting Hat, designed to help you explore computing careers. Tell me what excites you most about technology—optimization, robotics, data science, biology, or product strategy?
         </template>
     </category>
 
