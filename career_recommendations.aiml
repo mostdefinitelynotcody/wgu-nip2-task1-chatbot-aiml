@@ -61,7 +61,7 @@
     <category>
         <pattern>TELL ME ABOUT EVOLUTIONARY COMPUTATION SPECIALIST</pattern>
         <template>
-            The **Evolutionary Computation Specialist** career focuses on designing and analyzing genetic and evolutionary algorithms for optimization and search problems. These professionals:
+            The Evolutionary Computation Specialist career focuses on designing and analyzing genetic and evolutionary algorithms for optimization and search problems. These professionals:
             <br></br>
             • Design algorithms that evolve candidate solutions across generations
             <br></br>
@@ -78,7 +78,7 @@
     <category>
         <pattern>TELL ME ABOUT ROBOTICS AI ENGINEER</pattern>
         <template>
-            The **Robotics AI Engineer** career involves building adaptive control systems for robots using evolutionary strategies. These professionals:
+            The Robotics AI Engineer career involves building adaptive control systems for robots using evolutionary strategies. These professionals:
             <br></br>
             • Design and implement evolutionary algorithms for robot control
             <br></br>
@@ -95,7 +95,7 @@
     <category>
         <pattern>TELL ME ABOUT MLOPS ENGINEER</pattern>
         <template>
-            The **Machine Learning Operations (MLOps) Engineer** role focuses on deploying and maintaining machine learning pipelines in production. These professionals:
+            The Machine Learning Operations (MLOps) Engineer role focuses on deploying and maintaining machine learning pipelines in production. These professionals:
             <br></br>
             • Manage ML production systems and infrastructure
             <br></br>
@@ -112,7 +112,7 @@
     <category>
         <pattern>TELL ME ABOUT COMPUTATIONAL BIOLOGIST</pattern>
         <template>
-            The **Computational Biologist** career applies bio-inspired computation and evolutionary algorithms to biological data. These professionals:
+            The Computational Biologist career applies bio-inspired computation and evolutionary algorithms to biological data. These professionals:
             <br></br>
             • Simulate evolutionary processes and gene expression
             <br></br>
@@ -129,7 +129,7 @@
     <category>
         <pattern>TELL ME ABOUT INTELLIGENT SYSTEMS PRODUCT MANAGER</pattern>
         <template>
-            The **Intelligent Systems Product Manager** role bridges research and business needs for AI products. These professionals:
+            The Intelligent Systems Product Manager role bridges research and business needs for AI products. These professionals:
             <br></br>
             • Translate evolutionary algorithm research into product requirements
             <br></br>
