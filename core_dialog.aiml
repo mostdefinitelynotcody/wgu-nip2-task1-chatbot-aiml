@@ -36,13 +36,13 @@
         <template>
             I'm here to help you discover computing careers! Here's how you can interact with me:
             <br></br>
-            • Share your interests: Say "I like optimization" or "I'm interested in robotics" (or data science, biology, or product strategy)
+            - Share your interests: Say "I like optimization" or "I'm interested in robotics" (or data science, biology, or product strategy)
             <br></br>
-            • Ask about careers: I'll recommend computing jobs based on what you tell me
+            - Ask about careers: I'll recommend computing jobs based on what you tell me
             <br></br>
-            • Get a summary: Say "summarize careers" to see all my recommendations
+            - Get a summary: Say "summarize careers" to see all my recommendations
             <br></br>
-            • Learn about algorithms: Ask "what is a Darwinian algorithm" or "what is a Lamarckian algorithm"
+            - Learn about algorithms: Ask "what is a Darwinian algorithm" or "what is a Lamarckian algorithm"
             <br></br>
             Just start by telling me what interests you about technology!
         </template>
@@ -99,15 +99,15 @@
         <template>
             I'm here to help you explore computing careers! To give you the best recommendations, could you tell me what interests you about technology? For example, you might say:
             <br></br>
-            • "I like optimization" or "I enjoy optimization"
+            - "I like optimization" or "I enjoy optimization"
             <br></br>
-            • "I'm interested in robotics" or "I like robotics"
+            - "I'm interested in robotics" or "I like robotics"
             <br></br>
-            • "I like data science" or "I'm interested in data science"
+            - "I like data science" or "I'm interested in data science"
             <br></br>
-            • "I like biology" or "I'm interested in biology"
+            - "I like biology" or "I'm interested in biology"
             <br></br>
-            • "I like product strategy" or "I'm interested in product strategy"
+            - "I like product strategy" or "I'm interested in product strategy"
             <br></br>
             You can also say "help" to see what I can do, or ask about specific careers!
         </template>
