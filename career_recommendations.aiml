@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+
+    <!-- 
+        Career Recommendations and Summarization
+        This file handles the SUMMARIZE CAREERS intent and provides
+        consolidated career information based on session variables
+    -->
+
+    <!-- Career Summary - Consolidates all recommendations -->
+    <category>
+        <pattern>SUMMARIZE CAREERS</pattern>
+        <template>
+            Based on our conversation, here are the computing career paths that match your interests:
+            <br></br><br></br>
+            <ul>
+                <li><b>Evolutionary Computation Specialist</b> – Designs genetic and evolutionary algorithms for optimization and search problems. This role involves creating algorithms that evolve solutions across generations, perfect for those interested in optimization challenges.</li>
+                <br></br>
+                <li><b>Robotics AI Engineer</b> – Builds adaptive control systems for robots using evolutionary strategies. This career focuses on creating intelligent systems that learn and adapt through evolutionary algorithms, ideal for robotics enthusiasts.</li>
+                <br></br>
+                <li><b>Machine Learning Operations (MLOps) Engineer</b> – Manages ML production pipelines and experiments with model optimization. This role involves deploying machine learning systems and using evolutionary approaches for fine-tuning, perfect for data science interests.</li>
+                <br></br>
+                <li><b>Computational Biologist</b> – Applies bio-inspired computation and evolutionary algorithms to biological data. This career involves simulating evolutionary processes and analyzing gene expression, ideal for those interested in biology and computing.</li>
+                <br></br>
+                <li><b>Intelligent Systems Product Manager</b> – Bridges research and business needs, translating evolutionary algorithm trade-offs into product roadmaps. This role connects AI research with business requirements, perfect for product strategy interests.</li>
+            </ul>
+            <br></br>
+            Each of these careers requires an undergraduate computer science degree and benefits from understanding evolutionary algorithms like Darwinian and Lamarckian approaches. Would you like more details about any specific career?
+        </template>
+    </category>
+
+    <category>
+        <pattern>SUMMARY</pattern>
+        <template>
+            <srai>SUMMARIZE CAREERS</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>SHOW ME ALL CAREERS</pattern>
+        <template>
+            <srai>SUMMARIZE CAREERS</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHAT CAREERS DID YOU RECOMMEND</pattern>
+        <template>
+            <srai>SUMMARIZE CAREERS</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>LIST ALL JOBS</pattern>
+        <template>
+            <srai>SUMMARIZE CAREERS</srai>
+        </template>
+    </category>
+
+    <!-- Direct career questions - Allow users to ask about specific careers -->
+    <category>
+        <pattern>TELL ME ABOUT EVOLUTIONARY COMPUTATION SPECIALIST</pattern>
+        <template>
+            The **Evolutionary Computation Specialist** career focuses on designing and analyzing genetic and evolutionary algorithms for optimization and search problems. These professionals:
+            <br></br>
+            • Design algorithms that evolve candidate solutions across generations
+            <br></br>
+            • Apply Darwinian and Lamarckian approaches to optimization
+            <br></br>
+            • Work on problems in robotics, data pipelines, and machine learning
+            <br></br>
+            • Research and implement evolutionary strategies for complex search spaces
+            <br></br>
+            This career requires strong algorithm design skills, understanding of evolutionary computation principles, and a computer science degree. Would you like to explore other careers or learn more about evolutionary algorithms?
+        </template>
+    </category>
+
+    <category>
+        <pattern>TELL ME ABOUT ROBOTICS AI ENGINEER</pattern>
+        <template>
+            The **Robotics AI Engineer** career involves building adaptive control systems for robots using evolutionary strategies. These professionals:
+            <br></br>
+            • Design and implement evolutionary algorithms for robot control
+            <br></br>
+            • Work on locomotion, navigation, and pathfinding challenges
+            <br></br>
+            • Create systems that learn and adapt through evolutionary processes
+            <br></br>
+            • Bridge hardware, software, and artificial intelligence domains
+            <br></br>
+            This career requires knowledge of robotics, AI, and evolutionary computation, along with a computer science degree. Interested in learning about other computing careers?
+        </template>
+    </category>
+
+    <category>
+        <pattern>TELL ME ABOUT MLOPS ENGINEER</pattern>
+        <template>
+            The **Machine Learning Operations (MLOps) Engineer** role focuses on deploying and maintaining machine learning pipelines in production. These professionals:
+            <br></br>
+            • Manage ML production systems and infrastructure
+            <br></br>
+            • Experiment with model optimization and fine-tuning
+            <br></br>
+            • Use evolutionary approaches for hyperparameter search
+            <br></br>
+            • Bridge data science research with production deployment
+            <br></br>
+            This career requires ML expertise, DevOps skills, and understanding of evolutionary optimization techniques. A computer science degree is essential. Would you like to explore other career options?
+        </template>
+    </category>
+
+    <category>
+        <pattern>TELL ME ABOUT COMPUTATIONAL BIOLOGIST</pattern>
+        <template>
+            The **Computational Biologist** career applies bio-inspired computation and evolutionary algorithms to biological data. These professionals:
+            <br></br>
+            • Simulate evolutionary processes and gene expression
+            <br></br>
+            • Apply evolutionary algorithms to biological problems
+            <br></br>
+            • Analyze biological data using computational methods
+            <br></br>
+            • Use Darwinian and Lamarckian approaches to model biological evolution
+            <br></br>
+            This career combines biology knowledge with computational skills and requires a computer science degree (often with biology coursework). Interested in other computing careers?
+        </template>
+    </category>
+
+    <category>
+        <pattern>TELL ME ABOUT INTELLIGENT SYSTEMS PRODUCT MANAGER</pattern>
+        <template>
+            The **Intelligent Systems Product Manager** role bridges research and business needs for AI products. These professionals:
+            <br></br>
+            • Translate evolutionary algorithm research into product requirements
+            <br></br>
+            • Help stakeholders understand trade-offs between different AI approaches
+            <br></br>
+            • Connect AI capabilities with business value
+            <br></br>
+            • Manage product roadmaps for intelligent systems
+            <br></br>
+            This career requires understanding of AI/ML concepts, product management skills, and strong communication abilities. A computer science degree provides the technical foundation. Would you like to explore more career options?
+        </template>
+    </category>
+
+    <!-- Alternative phrasings for career questions -->
+    <category>
+        <pattern>WHAT IS AN EVOLUTIONARY COMPUTATION SPECIALIST</pattern>
+        <template>
+            <srai>TELL ME ABOUT EVOLUTIONARY COMPUTATION SPECIALIST</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHAT IS A ROBOTICS AI ENGINEER</pattern>
+        <template>
+            <srai>TELL ME ABOUT ROBOTICS AI ENGINEER</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHAT IS AN MLOPS ENGINEER</pattern>
+        <template>
+            <srai>TELL ME ABOUT MLOPS ENGINEER</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHAT IS A COMPUTATIONAL BIOLOGIST</pattern>
+        <template>
+            <srai>TELL ME ABOUT COMPUTATIONAL BIOLOGIST</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHAT IS AN INTELLIGENT SYSTEMS PRODUCT MANAGER</pattern>
+        <template>
+            <srai>TELL ME ABOUT INTELLIGENT SYSTEMS PRODUCT MANAGER</srai>
+        </template>
+    </category>
+
+</aiml>
+

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="2.0">
+    
+    <!-- Greeting Patterns - Multiple variations for user flexibility -->
+    <category>
+        <pattern>HELLO</pattern>
+        <template>
+            Hello! I'm GradPath Advisor, your career counseling chatbot. I'm here to help you explore computing careers that match your interests and strengths. To get started, tell me what excites you most about technology—are you interested in optimization, robotics, data science, biology, or product strategy?
+        </template>
+    </category>
+
+    <category>
+        <pattern>HI</pattern>
+        <template>
+            Hi there! I'm GradPath Advisor. I help computer science students discover career paths that align with their interests. What area of technology interests you most—optimization, robotics, data science, biology, or product strategy?
+        </template>
+    </category>
+
+    <category>
+        <pattern>HEY</pattern>
+        <template>
+            Hey! Welcome to GradPath Advisor. I'm here to help you find computing careers that fit your interests. What excites you about technology? You might mention optimization, robotics, data science, biology, or product strategy.
+        </template>
+    </category>
+
+    <category>
+        <pattern>START</pattern>
+        <template>
+            Welcome! I'm GradPath Advisor, designed to help you explore computing careers. Tell me what excites you most about technology—optimization, robotics, data science, biology, or product strategy?
+        </template>
+    </category>
+
+    <!-- Help Pattern - Provides guidance on how to interact -->
+    <category>
+        <pattern>HELP</pattern>
+        <template>
+            I'm here to help you discover computing careers! Here's how you can interact with me:
+            <br></br>
+            • Share your interests: Say "I like optimization" or "I'm interested in robotics" (or data science, biology, or product strategy)
+            <br></br>
+            • Ask about careers: I'll recommend computing jobs based on what you tell me
+            <br></br>
+            • Get a summary: Say "summarize careers" to see all my recommendations
+            <br></br>
+            • Learn about algorithms: Ask "what is a Darwinian algorithm" or "what is a Lamarckian algorithm"
+            <br></br>
+            Just start by telling me what interests you about technology!
+        </template>
+    </category>
+
+    <!-- Algorithm Explanations - Supports career theme and capstone research connection -->
+    <category>
+        <pattern>WHAT IS A DARWINIAN ALGORITHM</pattern>
+        <template>
+            Darwinian algorithms model natural selection by evolving candidate solutions across generations. Fitness scores guide which solutions survive, reproduce, and mutate. This approach is ideal for exploring large search spaces in fields like robotics optimization, data pipeline tuning, and machine learning hyperparameter search. Many computing careers use these principles for solving complex optimization problems.
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHAT IS A LAMARCKIAN ALGORITHM</pattern>
+        <template>
+            Lamarckian approaches allow individuals to learn and improve during their lifetime, then pass those improvements directly to offspring. This differs from Darwinian evolution where only inherited traits matter. Lamarckian algorithms align with adaptive systems where local learning can inform global evolution—useful in reinforcement learning, adaptive robotics, and evolutionary machine learning careers.
+        </template>
+    </category>
+
+    <!-- Resource Recommendation - Helps students explore further -->
+    <category>
+        <pattern>RECOMMEND RESOURCES</pattern>
+        <template>
+            Here are helpful resources to deepen your knowledge of computing careers and evolutionary algorithms:
+            <ul>
+                <li>Bäck, T. (2018). <i>Evolutionary Algorithms in Theory and Practice</i>. Oxford University Press.</li>
+                <li>Géron, A. (2019). <i>Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow</i> (2nd ed.). O'Reilly Media.</li>
+                <li>Pandorabots AIML Tutorial for conversational agent design</li>
+                <li>Professional computing career resources from IEEE Computer Society and ACM</li>
+            </ul>
+            Would you like to explore specific career paths based on your interests?
+        </template>
+    </category>
+
+    <!-- Politeness Patterns -->
+    <category>
+        <pattern>THANK YOU</pattern>
+        <template>
+            You're welcome! Feel free to ask me more about computing careers, or say "summarize careers" to review all the job types I've recommended. Good luck with your career exploration!
+        </template>
+    </category>
+
+    <category>
+        <pattern>THANKS</pattern>
+        <template>
+            You're welcome! Come back anytime to explore more computing careers or learn about evolutionary algorithm concepts. Best of luck with your career planning!
+        </template>
+    </category>
+
+    <!-- Fallback Pattern - Handles unexpected input gracefully -->
+    <category>
+        <pattern>*</pattern>
+        <template>
+            I'm here to help you explore computing careers! To give you the best recommendations, could you tell me what interests you about technology? For example, you might say:
+            <br></br>
+            • "I like optimization" or "I enjoy optimization"
+            <br></br>
+            • "I'm interested in robotics" or "I like robotics"
+            <br></br>
+            • "I like data science" or "I'm interested in data science"
+            <br></br>
+            • "I like biology" or "I'm interested in biology"
+            <br></br>
+            • "I like product strategy" or "I'm interested in product strategy"
+            <br></br>
+            You can also say "help" to see what I can do, or ask about specific careers!
+        </template>
+    </category>
+
+</aiml>
+
