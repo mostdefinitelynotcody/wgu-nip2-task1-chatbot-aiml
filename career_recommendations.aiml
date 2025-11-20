@@ -6,22 +6,18 @@
     <category>
         <pattern>SUMMARIZE CAREERS</pattern>
         <template>
-            Based on our chat, here are the computing careers that might fit your interests:
-            <br></br><br></br>
-            <ul>
-                <li><b>Evolutionary Computation Specialist</b> Designs genetic and evolutionary algorithms for optimization and search problems. This role involves creating algorithms that evolve solutions across generations, perfect for those interested in optimization challenges.</li>
-                <br></br>
-                <li><b>Robotics AI Engineer</b> Builds adaptive control systems for robots using evolutionary strategies. This career focuses on creating intelligent systems that learn and adapt through evolutionary algorithms, ideal for robotics enthusiasts.</li>
-                <br></br>
-                <li><b>Machine Learning Operations (MLOps) Engineer</b> Manages ML production pipelines and experiments with model optimization. This role involves deploying machine learning systems and using evolutionary approaches for fine-tuning, perfect for data science interests.</li>
-                <br></br>
-                <li><b>Computational Biologist</b> Applies bio-inspired computation and evolutionary algorithms to biological data. This career involves simulating evolutionary processes and analyzing gene expression, ideal for those interested in biology and computing.</li>
-                <br></br>
-                <li><b>Intelligent Systems Product Manager</b> Bridges research and business needs, translating evolutionary algorithm trade-offs into product roadmaps. This role connects AI research with business requirements, perfect for product strategy interests.</li>
-            </ul>
-            <br></br>
+            EVOLUTIONARY COMPUTATION SPECIALIST: Designs genetic and evolutionary algorithms for optimization and search problems. This role involves creating algorithms that evolve solutions across generations, perfect for those interested in optimization challenges.
+
+            ROBOTICS AI ENGINEER: Builds adaptive control systems for robots using evolutionary strategies. This career focuses on creating intelligent systems that learn and adapt through evolutionary algorithms, ideal for robotics enthusiasts.
+
+            MACHINE LEARNING OPERATIONS (MLOPS) ENGINEER: Manages ML production pipelines and experiments with model optimization. This role involves deploying machine learning systems and using evolutionary approaches for fine-tuning, perfect for data science interests.
+
+            COMPUTATIONAL BIOLOGIST: Applies bio-inspired computation and evolutionary algorithms to biological data. This career involves simulating evolutionary processes and analyzing gene expression, ideal for those interested in biology and computing.
+
+            INTELLIGENT SYSTEMS PRODUCT MANAGER: Bridges research and business needs, translating evolutionary algorithm trade-offs into product roadmaps. This role connects AI research with business requirements, perfect for product strategy interests.
+
             All of these careers need a CS degree and benefit from understanding evolutionary and genetic algorithms. Want more details on any specific one?
-            <br></br><br></br>
+
             <button>
                 <text>Evolutionary Computation Specialist</text>
                 <postback>TELL ME ABOUT EVOLUTIONARY COMPUTATION SPECIALIST</postback>
@@ -77,18 +73,10 @@
     <category>
         <pattern>TELL ME ABOUT EVOLUTIONARY COMPUTATION SPECIALIST</pattern>
         <template>
-            The Evolutionary Computation Specialist career focuses on designing and analyzing genetic and evolutionary algorithms for optimization and search problems. These professionals:
-            <br></br>
-            - Design algorithms that evolve candidate solutions across generations
-            <br></br>
-            - Apply evolutionary and genetic algorithms to optimization
-            <br></br>
-            - Work on problems in robotics, data pipelines, and machine learning
-            <br></br>
-            - Research and implement evolutionary strategies for complex search spaces
-            <br></br>
+            The Evolutionary Computation Specialist career focuses on designing and analyzing genetic and evolutionary algorithms for optimization and search problems. These professionals: Design algorithms that evolve candidate solutions across generations. Apply evolutionary and genetic algorithms to optimization. Work on problems in robotics, data pipelines, and machine learning. Research and implement evolutionary strategies for complex search spaces.
+
             This career requires strong algorithm design skills, understanding of evolutionary computation principles, and a computer science degree.
-            <br></br><br></br>
+
             <button>
                 <text>Summarize all careers</text>
                 <postback>SUMMARIZE CAREERS</postback>
@@ -115,18 +103,8 @@
     <category>
         <pattern>TELL ME ABOUT ROBOTICS AI ENGINEER</pattern>
         <template>
-            The Robotics AI Engineer career involves building adaptive control systems for robots using evolutionary strategies. These professionals:
-            <br></br>
-            - Design and implement evolutionary algorithms for robot control
-            <br></br>
-            - Work on locomotion, navigation, and pathfinding challenges
-            <br></br>
-            - Create systems that learn and adapt through evolutionary processes
-            <br></br>
-            - Bridge hardware, software, and artificial intelligence domains
-            <br></br>
-            This career requires knowledge of robotics, AI, and evolutionary computation, along with a computer science degree.
-            <br></br><br></br>
+            The Robotics AI Engineer career involves building adaptive control systems for robots using evolutionary strategies. These professionals: Design and implement evolutionary algorithms for robot control. Work on locomotion, navigation, and pathfinding challenges. Create systems that learn and adapt through evolutionary processes. Bridge hardware, software, and artificial intelligence domains. This career requires knowledge of robotics, AI, and evolutionary computation, along with a computer science degree.
+
             <button>
                 <text>Summarize all careers</text>
                 <postback>SUMMARIZE CAREERS</postback>
@@ -153,18 +131,8 @@
     <category>
         <pattern>TELL ME ABOUT MLOPS ENGINEER</pattern>
         <template>
-            The Machine Learning Operations (MLOps) Engineer role focuses on deploying and maintaining machine learning pipelines in production. These professionals:
-            <br></br>
-            - Manage ML production systems and infrastructure
-            <br></br>
-            - Experiment with model optimization and fine-tuning
-            <br></br>
-            - Use evolutionary approaches for hyperparameter search
-            <br></br>
-            - Bridge data science research with production deployment
-            <br></br>
-            This career requires ML expertise, DevOps skills, and understanding of evolutionary optimization techniques. A computer science degree is essential.
-            <br></br><br></br>
+            The Machine Learning Operations (MLOps) Engineer role focuses on deploying and maintaining machine learning pipelines in production. These professionals: Manage ML production systems and infrastructure. Experiment with model optimization and fine-tuning. Use evolutionary approaches for hyperparameter search. Bridge data science research with production deployment. This career requires ML expertise, DevOps skills, and understanding of evolutionary optimization techniques. A computer science degree is essential.
+
             <button>
                 <text>Summarize all careers</text>
                 <postback>SUMMARIZE CAREERS</postback>
@@ -191,18 +159,8 @@
     <category>
         <pattern>TELL ME ABOUT COMPUTATIONAL BIOLOGIST</pattern>
         <template>
-            The Computational Biologist career applies bio-inspired computation and evolutionary algorithms to biological data. These professionals:
-            <br></br>
-            - Simulate evolutionary processes and gene expression
-            <br></br>
-            - Apply evolutionary algorithms to biological problems
-            <br></br>
-            - Analyze biological data using computational methods
-            <br></br>
-            - Use evolutionary and genetic algorithms to model biological evolution
-            <br></br>
-            This career combines biology knowledge with computational skills and requires a computer science degree (often with biology coursework).
-            <br></br><br></br>
+            The Computational Biologist career applies bio-inspired computation and evolutionary algorithms to biological data. These professionals: Simulate evolutionary processes and gene expression. Apply evolutionary algorithms to biological problems. Analyze biological data using computational methods. Use evolutionary and genetic algorithms to model biological evolution. This career combines biology knowledge with computational skills and requires a computer science degree (often with biology coursework).
+
             <button>
                 <text>Summarize all careers</text>
                 <postback>SUMMARIZE CAREERS</postback>
@@ -229,18 +187,8 @@
     <category>
         <pattern>TELL ME ABOUT INTELLIGENT SYSTEMS PRODUCT MANAGER</pattern>
         <template>
-            The Intelligent Systems Product Manager role bridges research and business needs for AI products. These professionals:
-            <br></br>
-            - Translate evolutionary algorithm research into product requirements
-            <br></br>
-            - Help stakeholders understand trade-offs between different AI approaches
-            <br></br>
-            - Connect AI capabilities with business value
-            <br></br>
-            - Manage product roadmaps for intelligent systems
-            <br></br>
-            This career requires understanding of AI/ML concepts, product management skills, and strong communication abilities. A computer science degree provides the technical foundation.
-            <br></br><br></br>
+            The Intelligent Systems Product Manager role bridges research and business needs for AI products. These professionals: Translate evolutionary algorithm research into product requirements. Help stakeholders understand trade-offs between different AI approaches. Connect AI capabilities with business value. Manage product roadmaps for intelligent systems. This career requires understanding of AI/ML concepts, product management skills, and strong communication abilities. A computer science degree provides the technical foundation.
+
             <button>
                 <text>Summarize all careers</text>
                 <postback>SUMMARIZE CAREERS</postback>
