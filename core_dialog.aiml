@@ -42,13 +42,34 @@
             <br></br>
             - Get a summary: Say "summarize careers" to see all my recommendations
             <br></br>
-            - Learn about algorithms: Ask "what is a Darwinian algorithm" or "what is a Lamarckian algorithm"
+            - Learn about algorithms: Ask "what is an evolutionary algorithm," "what is a Darwinian algorithm," or "what is a Lamarckian algorithm"
             <br></br>
             Just start by telling me what interests you about technology!
         </template>
     </category>
 
     <!-- Algorithm Explanations -->
+    <category>
+        <pattern>WHAT IS AN EVOLUTIONARY ALGORITHM</pattern>
+        <template>
+            Evolutionary algorithms are optimization methods inspired by biological evolution. They work by creating a population of candidate solutions, evaluating how good each one is using fitness scores, and then evolving better solutions over multiple generations through selection, mutation, and crossover. These algorithms are super useful for solving complex optimization problems where traditional methods struggle, like finding optimal designs in robotics, tuning ML models, or solving difficult search problems. Lots of computing careers use evolutionary algorithms for optimization challenges.
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHAT IS A EVOLUTIONARY ALGORITHM</pattern>
+        <template>
+            <srai>WHAT IS AN EVOLUTIONARY ALGORITHM</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>WHAT ARE EVOLUTIONARY ALGORITHMS</pattern>
+        <template>
+            <srai>WHAT IS AN EVOLUTIONARY ALGORITHM</srai>
+        </template>
+    </category>
+
     <category>
         <pattern>WHAT IS A DARWINIAN ALGORITHM</pattern>
         <template>
