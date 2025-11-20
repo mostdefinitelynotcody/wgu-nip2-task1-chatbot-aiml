@@ -6,6 +6,7 @@
         <pattern>HELLO</pattern>
         <template>
             Hey! I'm Sorting Hat, your career counseling chatbot. I'm here to help you explore computing careers that match your interests. Tell me what excites you most about technology.
+            <br></br>
             <button>
                 <text>Optimization</text>
                 <postback>I LIKE OPTIMIZATION</postback>
@@ -33,6 +34,7 @@
         <pattern>HI</pattern>
         <template>
             Hi! I'm Sorting Hat. I help CS students figure out career paths that fit there interests. What tech area are you into?
+            <br></br>
             <button>
                 <text>Optimization</text>
                 <postback>I LIKE OPTIMIZATION</postback>
@@ -60,6 +62,7 @@
         <pattern>HEY</pattern>
         <template>
             Hey! Welcome to Sorting Hat. I help find computing careers that match what your interested in. What tech stuff excites you?
+            <br></br>
             <button>
                 <text>Optimization</text>
                 <postback>I LIKE OPTIMIZATION</postback>
@@ -87,6 +90,7 @@
         <pattern>START</pattern>
         <template>
             Welcome! I'm Sorting Hat, here to help you explore computing careers. What tech stuff are you most excited about?
+            <br></br>
             <button>
                 <text>Optimization</text>
                 <postback>I LIKE OPTIMIZATION</postback>
@@ -115,7 +119,9 @@
         <pattern>HELP</pattern>
         <template>
             I'm here to help you discover computing careers! Here's how you can interact with me:
+            <br></br>
             Share your interests:
+            <br></br>
             <button>
                 <text>Optimization</text>
                 <postback>I LIKE OPTIMIZATION</postback>
@@ -136,7 +142,9 @@
                 <text>Product Strategy</text>
                 <postback>I LIKE PRODUCT STRATEGY</postback>
             </button>
+            <br></br>
             Other options:
+            <br></br>
             <button>
                 <text>Summarize Careers</text>
                 <postback>SUMMARIZE CAREERS</postback>
@@ -227,6 +235,7 @@
         <pattern>*</pattern>
         <template>
             I'm here to help you explore computing careers! To give you the best recommendations, tell me what interests you about technology:
+            <br></br>
             <button>
                 <text>Optimization</text>
                 <postback>I LIKE OPTIMIZATION</postback>
