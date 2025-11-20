@@ -7,6 +7,19 @@
         <pattern>I LIKE OPTIMIZATION</pattern>
         <template>
             Cool! Optimization is huge in evolutionary computation and algorithms. If you like finding efficient solutions, you should check out the Evolutionary Computation Specialist career. This role is all about designing genetic and evolutionary algorithms for optimization problems. defiantly perfect if you like optimization challenges.
+            <br></br><br></br>
+            <button>
+                <text>Tell me more about this career</text>
+                <postback>TELL ME ABOUT EVOLUTIONARY COMPUTATION SPECIALIST</postback>
+            </button>
+            <button>
+                <text>Explore other interests</text>
+                <postback>HELP</postback>
+            </button>
+            <button>
+                <text>Summarize all careers</text>
+                <postback>SUMMARIZE CAREERS</postback>
+            </button>
         </template>
     </category>
 
@@ -29,6 +42,19 @@
         <pattern>I LIKE ROBOTICS</pattern>
         <template>
             Nice! Robotics mixes hardware, software, and AI in pretty fun ways. If your interested in robotics, check out the Robotics AI Engineer career. You'd build adaptive control systems for robots using evolutionary strategies for movement, navigation, and pathfinding. Basically creating smart systems that learn and adapt.
+            <br></br><br></br>
+            <button>
+                <text>Tell me more about this career</text>
+                <postback>TELL ME ABOUT ROBOTICS AI ENGINEER</postback>
+            </button>
+            <button>
+                <text>Explore other interests</text>
+                <postback>HELP</postback>
+            </button>
+            <button>
+                <text>Summarize all careers</text>
+                <postback>SUMMARIZE CAREERS</postback>
+            </button>
         </template>
     </category>
 
@@ -51,6 +77,19 @@
         <pattern>I LIKE DATA SCIENCE</pattern>
         <template>
             Data science is really important these days! Your interest in data science fits well with the Machine Learning Operations Engineer career. You'd manage ML production pipelines, deploy models, and experiment with tuning approaches including evolutionary adaptive learning. Basically bridging data science and production systems.
+            <br></br><br></br>
+            <button>
+                <text>Tell me more about this career</text>
+                <postback>TELL ME ABOUT MLOPS ENGINEER</postback>
+            </button>
+            <button>
+                <text>Explore other interests</text>
+                <postback>HELP</postback>
+            </button>
+            <button>
+                <text>Summarize all careers</text>
+                <postback>SUMMARIZE CAREERS</postback>
+            </button>
         </template>
     </category>
 
@@ -73,6 +112,19 @@
         <pattern>I LIKE BIOLOGY</pattern>
         <template>
             Mixing biology with computing is really interesting! Your interest in biology suggests you'd like a career as a Computational Biologist. This role uses bio-inspired computation and evolutionary algorithms on biological data, including gene expression analysis and evolutionary simulations. You'd use computing to understand biological systems and apply bio principles to computational problems.
+            <br></br><br></br>
+            <button>
+                <text>Tell me more about this career</text>
+                <postback>TELL ME ABOUT COMPUTATIONAL BIOLOGIST</postback>
+            </button>
+            <button>
+                <text>Explore other interests</text>
+                <postback>HELP</postback>
+            </button>
+            <button>
+                <text>Summarize all careers</text>
+                <postback>SUMMARIZE CAREERS</postback>
+            </button>
         </template>
     </category>
 
@@ -95,6 +147,19 @@
         <pattern>I LIKE PRODUCT STRATEGY</pattern>
         <template>
             Product strategy is key for bringing AI to market! Your interest in product strategy suggests you'd do well as an Intelligent Systems Product Manager. This role bridges research and business, translating evolutionary algorithm trade-offs and AI capabilities into product roadmaps. You'd help stakeholders understand how different learning approaches effect product decisions.
+            <br></br><br></br>
+            <button>
+                <text>Tell me more about this career</text>
+                <postback>TELL ME ABOUT INTELLIGENT SYSTEMS PRODUCT MANAGER</postback>
+            </button>
+            <button>
+                <text>Explore other interests</text>
+                <postback>HELP</postback>
+            </button>
+            <button>
+                <text>Summarize all careers</text>
+                <postback>SUMMARIZE CAREERS</postback>
+            </button>
         </template>
     </category>
 

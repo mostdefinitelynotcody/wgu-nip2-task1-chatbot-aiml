@@ -21,6 +21,27 @@
             </ul>
             <br></br>
             All of these careers need a CS degree and benefit from understanding evolutionary and genetic algorithms. Want more details on any specific one?
+            <br></br><br></br>
+            <button>
+                <text>Evolutionary Computation Specialist</text>
+                <postback>TELL ME ABOUT EVOLUTIONARY COMPUTATION SPECIALIST</postback>
+            </button>
+            <button>
+                <text>Robotics AI Engineer</text>
+                <postback>TELL ME ABOUT ROBOTICS AI ENGINEER</postback>
+            </button>
+            <button>
+                <text>MLOps Engineer</text>
+                <postback>TELL ME ABOUT MLOPS ENGINEER</postback>
+            </button>
+            <button>
+                <text>Computational Biologist</text>
+                <postback>TELL ME ABOUT COMPUTATIONAL BIOLOGIST</postback>
+            </button>
+            <button>
+                <text>Intelligent Systems Product Manager</text>
+                <postback>TELL ME ABOUT INTELLIGENT SYSTEMS PRODUCT MANAGER</postback>
+            </button>
         </template>
     </category>
 
@@ -66,7 +87,28 @@
             <br></br>
             - Research and implement evolutionary strategies for complex search spaces
             <br></br>
-            This career requires strong algorithm design skills, understanding of evolutionary computation principles, and a computer science degree. Would you like to explore other careers or learn more about evolutionary algorithms?
+            This career requires strong algorithm design skills, understanding of evolutionary computation principles, and a computer science degree.
+            <br></br><br></br>
+            <button>
+                <text>Summarize all careers</text>
+                <postback>SUMMARIZE CAREERS</postback>
+            </button>
+            <button>
+                <text>Robotics AI Engineer</text>
+                <postback>TELL ME ABOUT ROBOTICS AI ENGINEER</postback>
+            </button>
+            <button>
+                <text>MLOps Engineer</text>
+                <postback>TELL ME ABOUT MLOPS ENGINEER</postback>
+            </button>
+            <button>
+                <text>Computational Biologist</text>
+                <postback>TELL ME ABOUT COMPUTATIONAL BIOLOGIST</postback>
+            </button>
+            <button>
+                <text>Intelligent Systems Product Manager</text>
+                <postback>TELL ME ABOUT INTELLIGENT SYSTEMS PRODUCT MANAGER</postback>
+            </button>
         </template>
     </category>
 
@@ -83,7 +125,28 @@
             <br></br>
             - Bridge hardware, software, and artificial intelligence domains
             <br></br>
-            This career requires knowledge of robotics, AI, and evolutionary computation, along with a computer science degree. Interested in learning about other computing careers?
+            This career requires knowledge of robotics, AI, and evolutionary computation, along with a computer science degree.
+            <br></br><br></br>
+            <button>
+                <text>Summarize all careers</text>
+                <postback>SUMMARIZE CAREERS</postback>
+            </button>
+            <button>
+                <text>Evolutionary Computation Specialist</text>
+                <postback>TELL ME ABOUT EVOLUTIONARY COMPUTATION SPECIALIST</postback>
+            </button>
+            <button>
+                <text>MLOps Engineer</text>
+                <postback>TELL ME ABOUT MLOPS ENGINEER</postback>
+            </button>
+            <button>
+                <text>Computational Biologist</text>
+                <postback>TELL ME ABOUT COMPUTATIONAL BIOLOGIST</postback>
+            </button>
+            <button>
+                <text>Intelligent Systems Product Manager</text>
+                <postback>TELL ME ABOUT INTELLIGENT SYSTEMS PRODUCT MANAGER</postback>
+            </button>
         </template>
     </category>
 
@@ -100,7 +163,28 @@
             <br></br>
             - Bridge data science research with production deployment
             <br></br>
-            This career requires ML expertise, DevOps skills, and understanding of evolutionary optimization techniques. A computer science degree is essential. Would you like to explore other career options?
+            This career requires ML expertise, DevOps skills, and understanding of evolutionary optimization techniques. A computer science degree is essential.
+            <br></br><br></br>
+            <button>
+                <text>Summarize all careers</text>
+                <postback>SUMMARIZE CAREERS</postback>
+            </button>
+            <button>
+                <text>Evolutionary Computation Specialist</text>
+                <postback>TELL ME ABOUT EVOLUTIONARY COMPUTATION SPECIALIST</postback>
+            </button>
+            <button>
+                <text>Robotics AI Engineer</text>
+                <postback>TELL ME ABOUT ROBOTICS AI ENGINEER</postback>
+            </button>
+            <button>
+                <text>Computational Biologist</text>
+                <postback>TELL ME ABOUT COMPUTATIONAL BIOLOGIST</postback>
+            </button>
+            <button>
+                <text>Intelligent Systems Product Manager</text>
+                <postback>TELL ME ABOUT INTELLIGENT SYSTEMS PRODUCT MANAGER</postback>
+            </button>
         </template>
     </category>
 
@@ -117,7 +201,28 @@
             <br></br>
             - Use evolutionary and genetic algorithms to model biological evolution
             <br></br>
-            This career combines biology knowledge with computational skills and requires a computer science degree (often with biology coursework). Interested in other computing careers?
+            This career combines biology knowledge with computational skills and requires a computer science degree (often with biology coursework).
+            <br></br><br></br>
+            <button>
+                <text>Summarize all careers</text>
+                <postback>SUMMARIZE CAREERS</postback>
+            </button>
+            <button>
+                <text>Evolutionary Computation Specialist</text>
+                <postback>TELL ME ABOUT EVOLUTIONARY COMPUTATION SPECIALIST</postback>
+            </button>
+            <button>
+                <text>Robotics AI Engineer</text>
+                <postback>TELL ME ABOUT ROBOTICS AI ENGINEER</postback>
+            </button>
+            <button>
+                <text>MLOps Engineer</text>
+                <postback>TELL ME ABOUT MLOPS ENGINEER</postback>
+            </button>
+            <button>
+                <text>Intelligent Systems Product Manager</text>
+                <postback>TELL ME ABOUT INTELLIGENT SYSTEMS PRODUCT MANAGER</postback>
+            </button>
         </template>
     </category>
 
@@ -134,7 +239,28 @@
             <br></br>
             - Manage product roadmaps for intelligent systems
             <br></br>
-            This career requires understanding of AI/ML concepts, product management skills, and strong communication abilities. A computer science degree provides the technical foundation. Would you like to explore more career options?
+            This career requires understanding of AI/ML concepts, product management skills, and strong communication abilities. A computer science degree provides the technical foundation.
+            <br></br><br></br>
+            <button>
+                <text>Summarize all careers</text>
+                <postback>SUMMARIZE CAREERS</postback>
+            </button>
+            <button>
+                <text>Evolutionary Computation Specialist</text>
+                <postback>TELL ME ABOUT EVOLUTIONARY COMPUTATION SPECIALIST</postback>
+            </button>
+            <button>
+                <text>Robotics AI Engineer</text>
+                <postback>TELL ME ABOUT ROBOTICS AI ENGINEER</postback>
+            </button>
+            <button>
+                <text>MLOps Engineer</text>
+                <postback>TELL ME ABOUT MLOPS ENGINEER</postback>
+            </button>
+            <button>
+                <text>Computational Biologist</text>
+                <postback>TELL ME ABOUT COMPUTATIONAL BIOLOGIST</postback>
+            </button>
         </template>
     </category>
 
