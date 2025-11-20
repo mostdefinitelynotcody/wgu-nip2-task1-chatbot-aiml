@@ -1,31 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml version="2.0">
 
-    <!-- 
-        Career Recommendations and Summarization
-        This file handles the SUMMARIZE CAREERS intent and provides
-        consolidated career information based on session variables
-    -->
 
-    <!-- Career Summary - Consolidates all recommendations -->
+    <!--Career Summary-->
     <category>
         <pattern>SUMMARIZE CAREERS</pattern>
         <template>
-            Based on our conversation, here are the computing career paths that match your interests:
+            Based on our chat, here are the computing careers that might fit your interests:
             <br></br><br></br>
             <ul>
-                <li><b>Evolutionary Computation Specialist</b> – Designs genetic and evolutionary algorithms for optimization and search problems. This role involves creating algorithms that evolve solutions across generations, perfect for those interested in optimization challenges.</li>
+                <li><b>Evolutionary Computation Specialist</b> Designs genetic and evolutionary algorithms for optimization and search problems. This role involves creating algorithms that evolve solutions across generations, perfect for those interested in optimization challenges.</li>
                 <br></br>
-                <li><b>Robotics AI Engineer</b> – Builds adaptive control systems for robots using evolutionary strategies. This career focuses on creating intelligent systems that learn and adapt through evolutionary algorithms, ideal for robotics enthusiasts.</li>
+                <li><b>Robotics AI Engineer</b> Builds adaptive control systems for robots using evolutionary strategies. This career focuses on creating intelligent systems that learn and adapt through evolutionary algorithms, ideal for robotics enthusiasts.</li>
                 <br></br>
-                <li><b>Machine Learning Operations (MLOps) Engineer</b> – Manages ML production pipelines and experiments with model optimization. This role involves deploying machine learning systems and using evolutionary approaches for fine-tuning, perfect for data science interests.</li>
+                <li><b>Machine Learning Operations (MLOps) Engineer</b> Manages ML production pipelines and experiments with model optimization. This role involves deploying machine learning systems and using evolutionary approaches for fine-tuning, perfect for data science interests.</li>
                 <br></br>
-                <li><b>Computational Biologist</b> – Applies bio-inspired computation and evolutionary algorithms to biological data. This career involves simulating evolutionary processes and analyzing gene expression, ideal for those interested in biology and computing.</li>
+                <li><b>Computational Biologist</b> Applies bio-inspired computation and evolutionary algorithms to biological data. This career involves simulating evolutionary processes and analyzing gene expression, ideal for those interested in biology and computing.</li>
                 <br></br>
-                <li><b>Intelligent Systems Product Manager</b> – Bridges research and business needs, translating evolutionary algorithm trade-offs into product roadmaps. This role connects AI research with business requirements, perfect for product strategy interests.</li>
+                <li><b>Intelligent Systems Product Manager</b> Bridges research and business needs, translating evolutionary algorithm trade-offs into product roadmaps. This role connects AI research with business requirements, perfect for product strategy interests.</li>
             </ul>
             <br></br>
-            Each of these careers requires an undergraduate computer science degree and benefits from understanding evolutionary algorithms like Darwinian and Lamarckian approaches. Would you like more details about any specific career?
+            All of these careers need a CS degree and benefit from understanding evolutionary and genetic algorithms. Want more details on any specific one?
         </template>
     </category>
 
@@ -57,7 +52,7 @@
         </template>
     </category>
 
-    <!-- Direct career questions - Allow users to ask about specific careers -->
+    <!-- Direct career questions -->
     <category>
         <pattern>TELL ME ABOUT EVOLUTIONARY COMPUTATION SPECIALIST</pattern>
         <template>
@@ -65,7 +60,7 @@
             <br></br>
             - Design algorithms that evolve candidate solutions across generations
             <br></br>
-            - Apply Darwinian and Lamarckian approaches to optimization
+            - Apply evolutionary and genetic algorithms to optimization
             <br></br>
             - Work on problems in robotics, data pipelines, and machine learning
             <br></br>
@@ -120,7 +115,7 @@
             <br></br>
             - Analyze biological data using computational methods
             <br></br>
-            - Use Darwinian and Lamarckian approaches to model biological evolution
+            - Use evolutionary and genetic algorithms to model biological evolution
             <br></br>
             This career combines biology knowledge with computational skills and requires a computer science degree (often with biology coursework). Interested in other computing careers?
         </template>
@@ -143,7 +138,7 @@
         </template>
     </category>
 
-    <!-- Alternative phrasings for career questions -->
+    <!--Alternative phrasings-->  
     <category>
         <pattern>WHAT IS AN EVOLUTIONARY COMPUTATION SPECIALIST</pattern>
         <template>

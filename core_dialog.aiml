@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <aiml version="2.0">
     
-    <!-- Greeting Patterns - Multiple variations for user flexibility -->
+    <!-- Greeting Patterns -->
     <category>
         <pattern>HELLO</pattern>
         <template>
-            Hello! I'm Sorting Hat, your career counseling chatbot. I'm here to help you explore computing careers that match your interests and strengths. To get started, tell me what excites you most about technology. Are you interested in optimization, robotics, data science, biology, or product strategy?
+            Hey! I'm Sorting Hat, your career counseling chatbot. I'm here to help you explore computing careers that match your interests. Tell me what excites you most about technology. Are you into optimization, robotics, data science, biology, or product strategy?
         </template>
     </category>
 
     <category>
         <pattern>HI</pattern>
         <template>
-            Hi there! I'm Sorting Hat. I help computer science students discover career paths that align with their interests. What area of technology interests you most—optimization, robotics, data science, biology, or product strategy?
+            Hi! I'm Sorting Hat. I help CS students figure out career paths that fit there interests. What tech area are you into? Optimization, robotics, data science, biology, or product strategy?
         </template>
     </category>
 
     <category>
         <pattern>HEY</pattern>
         <template>
-            Hey! Welcome to Sorting Hat. I'm here to help you find computing careers that fit your interests. What excites you about technology? You might mention optimization, robotics, data science, biology, or product strategy.
+            Hey! Welcome to Sorting Hat. I help find computing careers that match what your interested in. What tech stuff excites you? Try saying optimization, robotics, data science, biology, or product strategy.
         </template>
     </category>
 
     <category>
         <pattern>START</pattern>
         <template>
-            Welcome! I'm Sorting Hat, designed to help you explore computing careers. Tell me what excites you most about technology—optimization, robotics, data science, biology, or product strategy?
+            Welcome! I'm Sorting Hat, here to help you explore computing careers. What tech stuff are you most excited about? Optimization, robotics, data science, biology, or product strategy?
         </template>
     </category>
 
-    <!-- Help Pattern - Provides guidance on how to interact -->
+    <!-- Help Pattern -->
     <category>
         <pattern>HELP</pattern>
         <template>
@@ -48,22 +48,22 @@
         </template>
     </category>
 
-    <!-- Algorithm Explanations - Supports career theme and capstone research connection -->
+    <!-- Algorithm Explanations -->
     <category>
         <pattern>WHAT IS A DARWINIAN ALGORITHM</pattern>
         <template>
-            Darwinian algorithms model natural selection by evolving candidate solutions across generations. Fitness scores guide which solutions survive, reproduce, and mutate. This approach is ideal for exploring large search spaces in fields like robotics optimization, data pipeline tuning, and machine learning hyperparameter search. Many computing careers use these principles for solving complex optimization problems.
+            Darwinian algorithms basically model natural selection by evolving solutions across generations. Fitness scores determine which solutions survive and reproduce. This works great for exploring large search spaces in robotics, data pipelines, and ML hyperparameter search. Lots of computing careers use these for complex optimization problems.
         </template>
     </category>
 
     <category>
         <pattern>WHAT IS A LAMARCKIAN ALGORITHM</pattern>
         <template>
-            Lamarckian approaches allow individuals to learn and improve during their lifetime, then pass those improvements directly to offspring. This differs from Darwinian evolution where only inherited traits matter. Lamarckian algorithms align with adaptive systems where local learning can inform global evolution—useful in reinforcement learning, adaptive robotics, and evolutionary machine learning careers.
+            Lamarckian approaches allow individuals to learn and improve during their lifetime, then pass those improvements directly to offspring. This differs from Darwinian evolution where only inherited traits matter. Lamarckian algorithms align with adaptive systems where local learning can inform global evolution, useful in reinforcement learning, adaptive robotics, and evolutionary machine learning careers.
         </template>
     </category>
 
-    <!-- Resource Recommendation - Helps students explore further -->
+    <!-- Resource Recommendation -->
     <category>
         <pattern>RECOMMEND RESOURCES</pattern>
         <template>
@@ -82,18 +82,18 @@
     <category>
         <pattern>THANK YOU</pattern>
         <template>
-            You're welcome! Feel free to ask me more about computing careers, or say "summarize careers" to review all the job types I've recommended. Good luck with your career exploration!
+            Your welcome! Feel free to ask more about computing careers, or say "summarize careers" to see all the jobs I've recommended. Good luck exploring!
         </template>
     </category>
 
     <category>
         <pattern>THANKS</pattern>
         <template>
-            You're welcome! Come back anytime to explore more computing careers or learn about evolutionary algorithm concepts. Best of luck with your career planning!
+            Your welcome! Come back anytime to check out more careers or learn about evolutionary algorithms. Good luck with your planning!
         </template>
     </category>
 
-    <!-- Fallback Pattern - Handles unexpected input gracefully -->
+    <!-- Fallback Pattern -->
     <category>
         <pattern>*</pattern>
         <template>
