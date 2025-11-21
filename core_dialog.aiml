@@ -5,7 +5,7 @@
     <category>
         <pattern>HELLO</pattern>
         <template>
-            Hey.  I'm the Sorting Hat, your career counseling chatbot. I'm here to help you explore computing careers that match your interests. Tell me what excites you most about technology. 
+            Hello,  I'm the Sorting Hat, your career counseling chatbot. I'm here to help you explore computer science careers that match your interests. Tell me what excites you most about your studies. 
             <br></br>
             <button>
                 <text>Optimization</text>
@@ -33,7 +33,7 @@
     <category>
         <pattern>HI</pattern>
         <template>
-            Hi. I'm Sorting Hat. I help CS students figure out career paths that fit there interests. What tech area are you into? 
+            Hi. I'm Sorting Hat. I help CS students figure out career paths that fit there interests. What topics are you most interested? 
             <br></br>
             <button>
                 <text>Optimization</text>
@@ -89,7 +89,7 @@
     <category>
         <pattern>START</pattern>
         <template>
-            Welcome. I'm Sorting Hat, here to help you explore computing careers. What tech stuff are you most excited about?
+            Welcome. I'm Sorting Hat, here to help explore computing careers. What topics are you most excited about?
             <br></br>
             <button>
                 <text>Optimization</text>
@@ -120,7 +120,7 @@
         <template>
             I'm here to help you discover computing careers.
             <br></br>
-            Share your interests:
+            Share your interests such as:
             <br></br>
             <button>
                 <text>Optimization</text>
@@ -164,7 +164,7 @@
         </template>
     </category>
 
-    <!-- Algorithm Explanations -->
+    <!--Explanations -->
     <category>
         <pattern>WHAT IS AN EVOLUTIONARY ALGORITHM</pattern>
         <template>
@@ -196,7 +196,7 @@
     <category>
         <pattern>WHAT IS A LAMARCKIAN ALGORITHM</pattern>
         <template>
-            Lamarckian approaches allow individuals to learn and improve during their lifetime, then pass those improvements directly to offspring. This differs from Darwinian evolution where only inherited traits matter & do not include acquired traits. Lamarckian algorithms align with adaptive systems where local learning can inform global evolution, useful in reinforcement learning, adaptive robotics, and evolutionary machine learning careers.
+            Lamarckian approaches allow individuals to learn and improve during their lifetime, then pass those improvements directly to offspring. This differs from Darwinian evolution where only inherited traits matter &amp; do not include acquired traits. Lamarckian algorithms align with adaptive systems where local learning can inform global evolution, useful in reinforcement learning, adaptive robotics, and evolutionary machine learning careers.
         </template>
     </category>
 
@@ -211,7 +211,7 @@
     <category>
         <pattern>THANKS</pattern>
         <template>
-            Your welcome. Come back anytime to check out more careers or learn about evolutionary algorithms. Good luck with your planning.
+            Your welcome. Come back anytime to check out more careers or learn about evolutionary algorithms. Good luck with your career planning.
         </template>
     </category>
 
@@ -219,7 +219,7 @@
     <category>
         <pattern>*</pattern>
         <template>
-            I do not understand that. I'm here to help you explore computing careers. To give you the best recommendations, tell me what interests you about technology:
+            I do not understand that. I'm here to help you explore computing careers. To give you the best recommendations, tell me what interests you about technology such as:
             <br></br>
             <button>
                 <text>Optimization</text>

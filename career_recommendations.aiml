@@ -6,11 +6,11 @@
     <category>
         <pattern>SUMMARIZE CAREERS</pattern>
         <template>
-            EVOLUTIONARY ALGORITHM SPECIALIST: Makes and improves genetic and evolutionary algorithms for optimization & search problems. This role involves creating algorithms that evolve simulations across generations. This is a great career for those interested in optimization challenges & evolution.
+            EVOLUTIONARY ALGORITHM SPECIALIST: Makes and improves genetic and evolutionary algorithms for optimization &amp; search problems. This role involves creating algorithms that evolve simulations across generations. This is a great career for those interested in optimization challenges &amp; evolution.
             <br></br>
-            ROBOTICS AI ENGINEER: Builds adaptive control systems for robots using the strategies found in computer science. This career focuses on creating intelligent systems that learn & adapt, ideal for those ethusiastic about robotics.
+            ROBOTICS AI ENGINEER: Builds adaptive control systems for robots using the strategies found in computer science. This career focuses on creating intelligent systems that learn &amp; adapt, ideal for those ethusiastic about robotics.
             <br></br>
-            MACHINE LEARNING OPERATIONS ENGINEER: Manages ML production and experiments with model optimization, subsymbolic, & symbolic approaches. This role involves deploying machine learning systems and approaches & their fine tuning, perfect for data science interests.
+            MACHINE LEARNING OPERATIONS ENGINEER: Manages ML production and experiments with model optimization, subsymbolic, &amp; symbolic approaches. This role involves deploying machine learning systems and approaches &amp; their fine tuning, perfect for data science interests.
             <br></br>
             COMPUTATIONAL BIOLOGIST: Applies bio inspired computation and evolutionary algorithms to solve learning problems and even perform direct biological analysis in simulations. This career involves simulating evolutionary processes (including ones not found in nature like Lamarckian evolution), ideal for students interested in biology and computing.
             <br></br>
@@ -75,7 +75,7 @@
         <template>
             The Evolutionary Computation Specialists focuses on designing and analyzing genetic and evolutionary algorithms for optimization and search problems. They design algorithms that evolve candidate solutions across generations. They often apply evolutionary and genetic algorithms to optimization. Work on problems in robotics, data pipelines, and machine learning. Research and implement evolutionary strategies for complex search spaces. This field is less common than other computing careers, but is an important for the field of machine learning and artificial intelligence.
             <br></br>
-            This career requires strong algorithm & software design skills, understanding of evolutionary computation principles, and a computer science degree. Of course, experience with biology can be huge.
+            This career requires strong algorithm &amp; software design skills, understanding of evolutionary computation principles, and a computer science degree. Of course, experience with biology can be huge.
             <br></br>
             <button>
                 <text>Summarize all careers</text>
@@ -163,7 +163,7 @@
     <category>
         <pattern>TELL ME ABOUT COMPUTATIONAL BIOLOGIST</pattern>
         <template>
-            The Computational Biologist as a role applies biologically inspired computation and evolutionary algorithms to biological data often for research or vital ecological projects and analysis. They simulate evolutionary processes and gene expression to solve problems or analyze data. They often apply evolutionary algorithms to real world biological problems, analyze biological data using computational methods, and use evolutionary and genetic algorithms to model predict, destroy, and protect. Massive projects protecting millions of lives and incalculable value in human development & natural ecosystems have this profession in high demand.
+            The Computational Biologist as a role applies biologically inspired computation and evolutionary algorithms to biological data often for research or vital ecological projects and analysis. They simulate evolutionary processes and gene expression to solve problems or analyze data. They often apply evolutionary algorithms to real world biological problems, analyze biological data using computational methods, and use evolutionary and genetic algorithms to model predict, destroy, and protect. Massive projects protecting millions of lives and incalculable value in human development &amp; natural ecosystems have this profession in high demand.
             <br></br>
             <button>
                 <text>Summarize all careers</text>
@@ -191,8 +191,8 @@
     <category>
         <pattern>TELL ME ABOUT INTELLIGENT SYSTEMS PRODUCT MANAGER</pattern>
         <template>
-            The Intelligent Systems Product Manager role bridges research and business needs into AI products. These professionals translate intelligence systems research into product requirements, helps stakeholders understand trade offs between different AI approaches, & helps to connect the logistical needs of intelligent system projects.
-            This career requires an understanding of AI & ML concepts, product management skills, and of course strong communication abilities. 
+            The Intelligent Systems Product Manager role bridges research and business needs into AI products. These professionals translate intelligence systems research into product requirements, helps stakeholders understand trade offs between different AI approaches, &amp; helps to connect the logistical needs of intelligent system projects.
+            This career requires an understanding of AI &amp; ML concepts, product management skills, and of course strong communication abilities. 
             <br></br>
             <button>
                 <text>Summarize all careers</text>
